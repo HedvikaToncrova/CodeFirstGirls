@@ -1,0 +1,22 @@
+h1 {
+	color: red;
+}
+
+h2 {
+	background-color: orange;
+	color: green;
+}
+p {
+	color: blue;
+	font-family: Helvetica;
+	font-size: 16px;
+}
+
+li.product_item  {
+	background-color:  yellow;
+}
+
+
+li.ordered_item {
+	background-color: teal;
+}
